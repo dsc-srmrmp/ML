@@ -27,7 +27,7 @@
                        
    - [Krish Naik Cricket Prediction](https://www.youtube.com/watch?v=4CtyDxfhoN8)
    - [Krish Naik Movie Reccomendation](https://www.youtube.com/watch?v=A_78fGgQMjM)
-   - [Titanic Survivor](https://www.youtube.com/watch?v=fS70iptz-XU&t=)
+   - [Titanic Survivor ML Prediction](https://www.youtube.com/watch?v=fS70iptz-XU&t=)
    - [Krish Naik Project Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUcr7osiU7CCm8hcaqSzGw)
    - [Kaggle Competitions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy)
    - [Ayon Roy's Curriculum](https://github.com/ayonroy2000/100DaysOfMLCode/blob/master/Coursework.md)
