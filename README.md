@@ -41,4 +41,3 @@
    - [pytorch Documentation](https://pytorch.org/docs/stable/index.html)
    - [Transformer Models Hugging face](https://huggingface.co/transformers/)
    - [Machine Learning Mathematics](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-   -
