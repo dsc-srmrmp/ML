@@ -32,4 +32,9 @@
    - [Kaggle Competitions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy)
    - [Ayon Roy's Curriculum](https://github.com/ayonroy2000/100DaysOfMLCode/blob/master/Coursework.md)
    - [opencv docs](https://keras.io/api/)
+   - [Opencv Tutorial freecodecamp](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=34s)
+   - [Keras Documentation](https://keras.io/api/)
+   - [Keras Tutorial freecodecamp](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
+   - [tensorflow Documentation](https://www.tensorflow.org/tutorials)
+   - [tensorflow Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk)
   
