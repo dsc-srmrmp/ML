@@ -37,4 +37,8 @@
    - [Keras Tutorial freecodecamp](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
    - [tensorflow Documentation](https://www.tensorflow.org/tutorials)
    - [tensorflow Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk)
-  
+   - [Pytorch Tutorial](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+   - [pytorch Documentation](https://pytorch.org/docs/stable/index.html)
+   - [Transformer Models Hugging face](https://huggingface.co/transformers/)
+   - [Machine Learning Mathematics](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+   -
